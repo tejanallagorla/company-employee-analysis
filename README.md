@@ -1,6 +1,6 @@
 # company-employee-analysis
-
-
+![Page 1](https://github.com/tejanallagorla/company-employee-analysis/blob/main/Employee%20Distribution%20Report%20-%20Page%201.png)
+![Page 2](https://github.com/tejanallagorla/company-employee-analysis/blob/main/Employee%20Distribution%20Report%20-%20Page%202.png)
 
 ## Data/Technologies Used
 **Data** - Human resources data with over 22,000 records from 2000 to 2020.<br>
