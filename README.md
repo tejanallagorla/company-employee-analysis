@@ -22,6 +22,7 @@
 
 ## Summary of Findings
 * The gender breakdown of employees in the company is 51.0% male, 46.3% female, and 2.7% non-conforming.
+* The most common race of employees is White (28.5%), while the least common races are American Indian/Alaska Native (6.0%) and Native Hawaiian/Other Pacific Islander (5.4%).
 * 
 
 ## Limitations
