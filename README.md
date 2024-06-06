@@ -5,7 +5,7 @@
 ## Data/Technologies Used
 **Data** - Human resources data with over 22,000 records from 2000 to 2020.<br>
 **Data Cleaning & Analysis** - MySQL Workbench<br>
-**Data Visualization** - PowerBI<br>
+**Data Visualization** - Microsoft Power BI<br>
 
 ## Questions
 1) What is the gender breakdown of employees in the company?
