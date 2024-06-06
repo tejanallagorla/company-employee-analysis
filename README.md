@@ -23,7 +23,10 @@
 ## Summary of Findings
 * The gender breakdown of employees in the company is 51.0% male, 46.3% female, and 2.7% non-conforming.
 * The most common race of employees is White (28.5%), while the least common races are American Indian/Alaska Native (6.0%) and Native Hawaiian/Other Pacific Islander (5.4%).
-* The youngest employee is 21 years old, whereas the oldest employee is 58 years old. The average age of employees at the company is 39.
+* The youngest employee is 21 years old, whereas the oldest employee is 58 years old. The average age of employees at the company is 39, and very few employees fall into the 58-65 range.
+* Approximately 75% of employees work at the headquarters, and the rest work remotely.
+* For employees who have been terminated, the average length of employment is about 8 years.
+* The gender breakdown of employees across each department roughly follows the overall gender breakdown in the company. However, there are a few departments, like Services, Research and Development, Support, Marketing, and Auditing, where the difference in number between male and female employees is almost indistinguishable.
 * 
 
 ## Limitations
