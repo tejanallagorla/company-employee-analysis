@@ -1,0 +1,14 @@
+department,terminated_count,total_count,turnover_rate
+Auditing,9,50,0.1800
+Legal,42,299,0.1405
+Training,199,1622,0.1227
+"Research and Development",123,1032,0.1192
+"Human Resources",200,1727,0.1158
+Engineering,729,6387,0.1141
+Support,103,903,0.1141
+Sales,199,1745,0.1140
+Accounting,363,3192,0.1137
+"Product Management",70,623,0.1124
+Services,178,1618,0.1100
+"Business Development",157,1569,0.1001
+Marketing,45,480,0.0938
