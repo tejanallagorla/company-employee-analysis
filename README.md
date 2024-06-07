@@ -27,7 +27,11 @@
 * Approximately 75% of employees work at the headquarters, and the rest work remotely.
 * For employees who have been terminated, the average length of employment is about 8 years.
 * The gender breakdown of employees across each department roughly follows the overall gender breakdown in the company. However, there are a few departments, like Services, Research and Development, Support, Marketing, and Auditing, where the difference in number between male and female employees is almost indistinguishable.
-* 
+* The most common job titles are Research Assistant II, Business Analyst, and Human Resources Analyst II. The least common job titles are Marketing Manager, Associate Professor, and VP of Training and Development.
+* The Auditing department has the highest turnover rate (0.18).
+* A large portion of employees are located in Cleveland, OH, but there are also substantial amounts in Chicago, IL, and Philadelphia, PA.
+* After the first year (2000), the company has been growing by approximately 900 employees annually. In 20 years, it has gone from 185 employees to 17.5 thousand.
+* The average tenure for each department is approximately 8 years, with Sales and Marketing being the highest, and Product Management and Legal being the lowest.
 
 ## Limitations
 * Some records had unreasonable ages that were negative or below 18, so they were excluded during querying (967 records). Only records with ages 18 and above were used in the analysis.
